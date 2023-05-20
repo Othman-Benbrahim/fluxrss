@@ -4,6 +4,11 @@ font-size: 30px;}
 
 .script { display: flex; 
 flex-direction: row;
-gap: 4px;}
+gap: 4px;
+}
 
 .fipoweredby {visibility: hidden;}
+
+
+body { color: aliceblue;
+background: black;}
